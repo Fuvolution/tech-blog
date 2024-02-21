@@ -12,4 +12,4 @@ This program requires installing Node.js and the following packages:
 * dotenv
 * bcrypt
 * express-session 
-* connect-session-sequelize 
+* connect-session-sequelize ## Description
